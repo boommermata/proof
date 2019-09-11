@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am boommermata on github.
+  * I am valeriomata (https://keybase.io/valeriomata) on keybase.
+  * I have a public key ASBAZ-XI-VC-0Wk4ErHYOgHuRw-1sFH7w1eu8z3O-Z_2hQo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01204067e5c8f950bed1693812b1d83a01ee470fb5b051fbc357aef33dcef99ff6850a",
+      "host": "keybase.io",
+      "kid": "01204067e5c8f950bed1693812b1d83a01ee470fb5b051fbc357aef33dcef99ff6850a",
+      "uid": "98538467dc751fa1092f451c6d1ba819",
+      "username": "valeriomata"
+    },
+    "merkle_root": {
+      "ctime": 1568245100,
+      "hash": "491f54e06f0cc7bf74711b8e9235d4ae0c0dd11a0c258dced7320fc9fe152594d1315bd49999fbd5e0e6579113d0930a2afef58f24786106b87c0b55255220af",
+      "hash_meta": "4d0c31b21d9424b44b830d8b42a1da7a6f4b650eca1e560f8e2a72843499c629",
+      "seqno": 6840066
+    },
+    "service": {
+      "entropy": "t7qYwMJOiIgWKKBL25OesCYI",
+      "name": "github",
+      "username": "boommermata"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.0"
+  },
+  "ctime": 1568245618,
+  "expire_in": 504576000,
+  "prev": "38d7d008af0ac57b04c29d27732d786dd00ffa5027612cc3b616437055d40ca0",
+  "seqno": 17,
+  "tag": "signature"
+}
+```
+
+with the key [ASBAZ-XI-VC-0Wk4ErHYOgHuRw-1sFH7w1eu8z3O-Z_2hQo](https://keybase.io/valeriomata), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgQGflyPlQvtFpOBKx2DoB7kcPtbBR+8NXrvM9zvmf9oUKp3BheWxvYWTESpcCEcQgONfQCK8KxXsEwp0ncy14bdAP+lAnYSzDthZDcFXUDKDEIBeVcWG7jwhe9F7Q6MP0eS1EUOlgq+NFhBNd+MXQCfT/AgHCo3NpZ8RAe5vLAkughfFYMhtHf38qyoO1OxPALZOmR+0kZ2Skp0MumHlmiB9UOtCAAt7EPPqgUlnqD39UdALxvVTlz5+ODqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIHTmOZq/4zqkPZu2ylNHADOacbu4nJz3M1UYPpd/XdMWo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/valeriomata
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id valeriomata
+```
